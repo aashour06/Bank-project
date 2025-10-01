@@ -1,2 +1,2 @@
-This project is just training with a vital concept in OOP (Encapsulation) 
-We used __balance to make private property  
+This project is just training with a vital concepts in OOP (Encapsulationm , inheritance) 
+We used _balance to make protected property  
