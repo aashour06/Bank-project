@@ -1,2 +1,2 @@
-This project is just training with vital concepts in OOP (Encapsulation, inheritance) 
+This project is just training with a vital concepts in OOP (Encapsulationm , inheritance) 
 We used _balance to make protected property  
