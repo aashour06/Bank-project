@@ -1,2 +1,2 @@
-This project is just training with a vital concepts in OOP (Encapsulationm , inheritance) 
-We used _balance to make protected property  
+I make a virtual data and import it into my database and make functions that i call to create a persional database that saves all customers data 
+
